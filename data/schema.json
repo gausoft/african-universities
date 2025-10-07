@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "African University Registry - Country Schema",
+  "description": "Schema for African Universities Registry country data files",
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Official country name in English"
+        },
+        "code": {
+          "type": "string", 
+          "pattern": "^[A-Z]{2}$",
+          "description": "ISO 3166-1 alpha-2 country code"
+        },
+        "continent": {
+          "type": "string",
+          "enum": ["Africa"]
+        },
+        "region": {
+          "type": "string",
+          "description": "African sub-region (West Africa, East Africa, etc.)"
+        },
+        "capital": {
+          "type": "string"
+        },
+        "languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "currency": {
+          "type": "string"
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date"
+        },
+        "academic_year": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string",
+          "format": "uri"
+        },
+        "ministry": {
+          "type": "string",
+          "description": "Name of the ministry in charge of higher education"
+        }
+      },
+      "required": ["name", "code", "continent", "last_updated"]
+    },
+    "statistics": {
+      "type": "object",
+      "properties": {
+        "total_institutions": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "public_universities": {
+          "type": "integer", 
+          "minimum": 0
+        },
+        "private_universities": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "technical_institutes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "research_centers": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "institutions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}[0-9]{3,}$",
+            "description": "Unique identifier: country code + number (e.g., TG001)"
+          },
+          "name": {
+            "type": "string",
+            "description": "Official institution name in English/International"
+          },
+          "name_local": {
+            "type": "string",
+            "description": "Institution name in local language"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["public", "private", "religious", "international"]
+          },
+          "category": {
+            "type": "string", 
+            "enum": ["university", "institute", "college", "school", "center"]
+          },
+          "status": {
+            "type": "string",
+            "enum": ["recognized", "provisional", "pending", "suspended"]
+          },
+          "founded": {
+            "type": "integer",
+            "minimum": 1800,
+            "maximum": 2025
+          },
+          "location": {
+            "type": "object",
+            "properties": {
+              "city": {"type": "string"},
+              "region": {"type": "string"},
+              "address": {"type": "string"},
+              "coordinates": {
+                "type": "object",
+                "properties": {
+                  "latitude": {"type": "number"},
+                  "longitude": {"type": "number"}
+                }
+              }
+            },
+            "required": ["city"]
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "website": {"type": "string", "format": "uri"},
+              "email": {"type": "string", "format": "email"},
+              "phone": {"type": "string"}
+            }
+          },
+          "programs": {
+            "type": "object",
+            "properties": {
+              "faculties": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "degrees": {
+                "type": "array", 
+                "items": {"type": "string"}
+              },
+              "languages": {
+                "type": "array",
+                "items": {"type": "string"}
+              }
+            }
+          },
+          "accreditation": {
+            "type": "object",
+            "properties": {
+              "ministry_recognized": {"type": "boolean"},
+              "recognition_date": {"type": "string"},
+              "license_number": {"type": "string"},
+              "valid_until": {"type": "string"}
+            }
+          },
+          "student_info": {
+            "type": "object",
+            "properties": {
+              "enrollment_capacity": {"type": "integer", "minimum": 0},
+              "current_students": {"type": ["integer", "null"], "minimum": 0},
+              "international_students": {"type": "boolean"}
+            }
+          }
+        },
+        "required": ["id", "name", "type", "category", "status", "location"]
+      }
+    }
+  },
+  "required": ["country", "statistics", "institutions"]
+}

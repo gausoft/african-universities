@@ -1,7 +1,7 @@
 # African Universities Registry (AUR)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/african_universities/issues)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gausoft/african-universities/issues)
 
 ## 📚 Résumé
 
@@ -146,7 +146,7 @@ Nous sommes ouverts aux partenariats avec :
 
 ## 📞 Contact
 
-- **Issues** : [GitHub Issues](https://github.com/yourusername/african_universities/issues)
+- **Issues** : [GitHub Issues](https://github.com/gausoft/african-universities/issues)
 
 ## 📝 License
 

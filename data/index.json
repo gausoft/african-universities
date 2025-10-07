@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-07",
+  "description": "African Universities Registry - Countries Index",
+  "totalCountries": 1,
+  "countries": [
+    {
+      "name": "Togo",
+      "code": "TG",
+      "file": "togo.json",
+      "region": "West Africa",
+      "status": "active",
+      "institutionsCount": 94,
+      "lastUpdated": "2025-10-07",
+      "dataSource": "https://edusup.gouv.tg/"
+    }
+  ],
+  "regions": {
+    "West Africa": [
+      "TG"
+    ],
+    "East Africa": [],
+    "Central Africa": [],
+    "North Africa": [],
+    "Southern Africa": []
+  },
+  "statistics": {
+    "totalInstitutions": 94,
+    "countriesWithData": 1,
+    "dataCoverage": "1.9%"
+  }
+}

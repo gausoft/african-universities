@@ -1,0 +1,2876 @@
+{
+  "country": {
+    "name": "Togo",
+    "code": "TG",
+    "continent": "Africa",
+    "region": "West Africa",
+    "capital": "Lomé",
+    "languages": [
+      "French"
+    ],
+    "currency": "CFA Franc",
+    "lastUpdated": "2025-10-07",
+    "academicYear": "2025-2026",
+    "source": "https://edusup.gouv.tg/liste-des-etablissements-denseignement-superieur-reconnus-par-le-ministere-de-lenseignement-superieur-et-de-la-recherche-pour-le-compte-de-lannee-academique-2025-2026/",
+    "ministry": "Ministère de l'Enseignement Supérieur et de la Recherche",
+    "minister": "Kanka-Malik NATCHABA"
+  },
+  "statistics": {
+    "totalInstitutions": 94,
+    "publicInstitutions": 4,
+    "privateInstitutions": 90,
+    "universities": 5,
+    "schools": 32,
+    "institutes": 54,
+    "centers": 3
+  },
+  "institutions": [
+    {
+      "id": "TG001",
+      "name": "Université de Lomé",
+      "nameLocal": "Université de Lomé (UL)",
+      "type": "public",
+      "category": "university",
+      "status": "recognized",
+      "founded": 1970,
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime",
+        "address": "BP 1515 Lomé, Togo",
+        "coordinates": {
+          "latitude": 6.1319,
+          "longitude": 1.2228
+        }
+      },
+      "contact": {
+        "website": "https://www.univ-lome.tg/",
+        "email": "info@univ-lome.tg",
+        "phone": "+228 22 25 45 16"
+      },
+      "programs": {
+        "faculties": [
+          "Lettres, Langues et Arts",
+          "Sciences",
+          "Sciences Économiques et de Gestion",
+          "Droit",
+          "Médecine",
+          "Sciences et Techniques"
+        ],
+        "degrees": [
+          "Licence",
+          "Master",
+          "Doctorat"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "recognitionDate": "1970",
+        "licenseNumber": "UL001",
+        "validUntil": "2026"
+      },
+      "studentInfo": {
+        "enrollmentCapacity": 15000,
+        "currentStudents": null,
+        "internationalStudents": true
+      }
+    },
+    {
+      "id": "TG002",
+      "name": "Université de Kara",
+      "nameLocal": "Université de Kara (UK)",
+      "type": "public",
+      "category": "university",
+      "status": "recognized",
+      "founded": 2004,
+      "location": {
+        "city": "Kara",
+        "region": "Kara",
+        "address": "BP 43 Kara, Togo",
+        "coordinates": {
+          "latitude": 9.5516,
+          "longitude": 1.1864
+        }
+      },
+      "contact": {
+        "website": "https://www.univ-kara.tg/",
+        "email": "contact@univ-kara.tg",
+        "phone": "+228 26 60 02 75"
+      },
+      "programs": {
+        "faculties": [
+          "Sciences et Techniques",
+          "Sciences Économiques et de Gestion",
+          "Lettres, Langues et Arts"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "recognitionDate": "2004",
+        "licenseNumber": "UK001",
+        "validUntil": "2026"
+      },
+      "studentInfo": {
+        "enrollmentCapacity": 5000,
+        "currentStudents": null,
+        "internationalStudents": true
+      }
+    },
+    {
+      "id": "TG003",
+      "name": "Centre international de recherche et d'étude de langues- village du Bénin",
+      "nameLocal": "Centre international de recherche et d'étude de langues- village du Bénin (CIREL-VB)",
+      "type": "public",
+      "category": "center",
+      "status": "recognized",
+      "location": {
+        "city": "Village du Bénin",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Langues",
+          "Recherche linguistique"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG004",
+      "name": "École nationale supérieure d'atakpamé",
+      "nameLocal": "École nationale supérieure (ENS) d'atakpamé",
+      "type": "public",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Atakpamé",
+        "region": "Plateaux"
+      },
+      "programs": {
+        "specializations": [
+          "Formation des enseignants"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG005",
+      "name": "Centre de Formation Bancaire du Togo",
+      "nameLocal": "Centre de Formation Bancaire du Togo (CFBT)",
+      "type": "private",
+      "category": "center",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Banque",
+          "Finance"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG006",
+      "name": "Carrefour Informatique et Bureautique –Institut des Nouvelles Technologies Appliquées",
+      "nameLocal": "Carrefour Informatique et Bureautique –Institut des Nouvelles Technologies Appliquées (CIB-INTA)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Informatique",
+          "Bureautique",
+          "Nouvelles Technologies"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG007",
+      "name": "Centre de Perfectionnement aux Techniques Économiques et Commerciales",
+      "nameLocal": "Centre de Perfectionnement aux Techniques Économiques et Commerciales (CPTEC)",
+      "type": "private",
+      "category": "center",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Économie",
+          "Commerce",
+          "Gestion"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG008",
+      "name": "Centre Informatique de Formation et d'Orientation Professionnelle",
+      "nameLocal": "Centre Informatique de Formation et d'Orientation Professionnelle (CIFOP)",
+      "type": "private",
+      "category": "center",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Informatique",
+          "Formation professionnelle"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG009",
+      "name": "Centre Omnithérapeutique Africain",
+      "nameLocal": "Centre Omnithérapeutique Africain (COA)",
+      "type": "private",
+      "category": "center",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Médecine traditionnelle",
+          "Thérapie"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG010",
+      "name": "École de Finance",
+      "nameLocal": "École de Finance",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Finance",
+          "Banque",
+          "Assurance"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG011",
+      "name": "École des Cadres",
+      "nameLocal": "École des Cadres",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Management",
+          "Administration",
+          "Gestion"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG012",
+      "name": "École des Hautes Études de Sciences et Technologies",
+      "nameLocal": "École des Hautes Études de Sciences et Technologies (HEST)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences",
+          "Technologies",
+          "Ingénierie"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG013",
+      "name": "École Maritime du Togo",
+      "nameLocal": "École Maritime du Togo (EMARITO)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Navigation maritime",
+          "Transport maritime",
+          "Logistique portuaire"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG014",
+      "name": "L'École supérieure des arts et sciences du numérique",
+      "nameLocal": "L'École supérieure des arts et sciences du numérique (ESASN)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Arts numériques",
+          "Sciences du numérique",
+          "Design graphique"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG015",
+      "name": "École Supérieure d'Administration et de Gestion Notre Dame de l'Église",
+      "nameLocal": "École Supérieure d'Administration et de Gestion Notre Dame de l'Église (ESAG-NDE)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Administration",
+          "Gestion",
+          "Management"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG016",
+      "name": "École Supérieure d'Audit et de management",
+      "nameLocal": "École Supérieure d'Audit et de management (ESAM)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Audit",
+          "Management",
+          "Contrôle de gestion"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG017",
+      "name": "École Supérieure d'Informatique et de Gestion",
+      "nameLocal": "École Supérieure d'Informatique et de Gestion (ESIG GLOBAL SUCCESS)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Informatique",
+          "Gestion",
+          "Systèmes d'information"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG018",
+      "name": "École Supérieure d'Informatique, de Business et d'Administration",
+      "nameLocal": "École Supérieure d'Informatique, de Business et d'Administration (ESIBA)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Informatique",
+          "Business",
+          "Administration"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG019",
+      "name": "École Supérieure de Commerce et de l'Économie Numérique",
+      "nameLocal": "École Supérieure de Commerce et de l'Économie Numérique (ESCEN)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Commerce",
+          "Économie numérique",
+          "E-commerce"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG020",
+      "name": "École Supérieure de Formation Professionnelle",
+      "nameLocal": "École Supérieure de Formation Professionnelle (CFP ANCILA)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation professionnelle"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG021",
+      "name": "École Supérieure de Gestion, d'Informatique et des Sciences",
+      "nameLocal": "École Supérieure de Gestion, d'Informatique et des Sciences (ESGIS)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Gestion",
+          "Informatique",
+          "Sciences"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG022",
+      "name": "École Supérieure de Management",
+      "nameLocal": "École Supérieure de Management (ESMA)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Management",
+          "Leadership",
+          "Stratégie"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG023",
+      "name": "École Supérieure de Technologie, du Cinéma et de l'Audiovisuelle",
+      "nameLocal": "École Supérieure de Technologie, du Cinéma et de l'Audiovisuelle (ESTECA)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Technologie",
+          "Cinéma",
+          "Audiovisuel"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG024",
+      "name": "École Supérieure des Affaires",
+      "nameLocal": "École Supérieure des Affaires (ESA-Agoè et ESA-Super Taco)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Affaires",
+          "Business",
+          "Commerce"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG025",
+      "name": "École Supérieure des Études Cinématographiques",
+      "nameLocal": "École Supérieure des Études Cinématographiques (ESEC)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Cinéma",
+          "Production audiovisuelle",
+          "Réalisation"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG026",
+      "name": "École Supérieure des Ponts et Chaussées",
+      "nameLocal": "École Supérieure des Ponts et Chaussées (ESPC)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Génie civil",
+          "Ponts et chaussées",
+          "Travaux publics"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG027",
+      "name": "École Supérieure des Sciences Économiques, de Gestion et de la Statistique Dr DJOKA",
+      "nameLocal": "École Supérieure des Sciences Économiques, de Gestion et de la Statistique Dr DJOKA",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences économiques",
+          "Gestion",
+          "Statistique"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG028",
+      "name": "École supérieure des techniques appliquées aux bâtiments",
+      "nameLocal": "École supérieure des techniques appliquées aux bâtiments (ESTABAT)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Bâtiment",
+          "Techniques de construction",
+          "Architecture"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG029",
+      "name": "École Supérieure des Techniques et Arts de la Communication",
+      "nameLocal": "École Supérieure des Techniques et Arts de la Communication (ESTAC)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Communication",
+          "Arts",
+          "Médias"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG030",
+      "name": "École Supérieure du Tourisme et d'Hôtellerie Stella Matutina",
+      "nameLocal": "École Supérieure du Tourisme et d'Hôtellerie Stella Matutina (ESTH-SM)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Tourisme",
+          "Hôtellerie",
+          "Restauration"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG031",
+      "name": "École supérieure de formation professionnelle",
+      "nameLocal": "École supérieure de formation professionnelle (ESFP-FIMAC)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation professionnelle"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG032",
+      "name": "Faculté de Théologie des Assemblées de Dieu",
+      "nameLocal": "Faculté de Théologie des Assemblées de Dieu (FATAD)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Théologie",
+          "Sciences religieuses"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG033",
+      "name": "FORMATEC",
+      "nameLocal": "FORMATEC",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation technique"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG034",
+      "name": "Haute Technologie d'Informatique et Bureautique Atlantis",
+      "nameLocal": "Haute Technologie d'Informatique et Bureautique Atlantis (HTIB-ATLANTIS)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Informatique",
+          "Bureautique",
+          "Technologies"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG035",
+      "name": "HOTEL ECOLE AVENIDA",
+      "nameLocal": "HOTEL ECOLE AVENIDA",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Hôtellerie",
+          "Restauration",
+          "Tourisme"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG036",
+      "name": "Hôtel Ecole la Savoureuse",
+      "nameLocal": "Hôtel Ecole la Savoureuse (HES)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Hôtellerie",
+          "Restauration",
+          "Arts culinaires"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG037",
+      "name": "Institut Africain d'Administration et d'Études Commerciales",
+      "nameLocal": "Institut Africain d'Administration et d'Études Commerciales (IAEC)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Administration",
+          "Commerce",
+          "Gestion"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG038",
+      "name": "Institut Africain de Développement Sanitaire et Social",
+      "nameLocal": "Institut Africain de Développement Sanitaire et Social (IADSS)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Santé publique",
+          "Développement social",
+          "Sciences sanitaires"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG039",
+      "name": "Institut Africain des Sciences, des Technologies et des Métiers",
+      "nameLocal": "Institut Africain des Sciences, des Technologies et des Métiers (IASTM)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences",
+          "Technologies",
+          "Métiers techniques"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG040",
+      "name": "Institut Africain du Leadership",
+      "nameLocal": "Institut Africain du Leadership",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Leadership",
+          "Management",
+          "Développement personnel"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG041",
+      "name": "Institut de Formation et de Recherche pour le Développement Durable",
+      "nameLocal": "Institut de Formation et de Recherche pour le Développement Durable (IFORDD)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Développement durable",
+          "Environnement",
+          "Recherche"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG042",
+      "name": "Institut de Formation Technique Supérieure",
+      "nameLocal": "Institut de Formation Technique Supérieure (IFTS)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation technique",
+          "Technologies industrielles"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG043",
+      "name": "Institut de Mathématique, des Sciences et Technologies",
+      "nameLocal": "Institut de Mathématique, des Sciences et Technologies (IMaST)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Mathématiques",
+          "Sciences",
+          "Technologies"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG044",
+      "name": "Institut de Recherche et Formation en Développement local",
+      "nameLocal": "Institut de Recherche et Formation en Développement local (IRFODEL-CENTRE)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Développement local",
+          "Recherche",
+          "Formation"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG045",
+      "name": "Institut de technologie IPNET II",
+      "nameLocal": "Institut de technologie IPNET II",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Technologies de l'information",
+          "Réseaux",
+          "Informatique"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG046",
+      "name": "Institut du Génie Biomédical de Lomé",
+      "nameLocal": "Institut du Génie Biomédical de Lomé (IGEB)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Génie biomédical",
+          "Technologies médicales",
+          "Biotechnologies"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG047",
+      "name": "Institut Polytechnique DEFITECH",
+      "nameLocal": "Institut Polytechnique DEFITECH",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Technologies",
+          "Ingénierie",
+          "Sciences appliquées"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG048",
+      "name": "Institut Polytechnique des Bâtiments et des Travaux Publics",
+      "nameLocal": "Institut Polytechnique des Bâtiments et des Travaux Publics (IPBTP)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Bâtiments",
+          "Travaux publics",
+          "Génie civil"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG049",
+      "name": "Institut supérieur LA MAITRISE",
+      "nameLocal": "Institut supérieur « LA MAITRISE »",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation générale",
+          "Sciences de gestion"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG050",
+      "name": "Institut supérieur LE TECHNOCRATE",
+      "nameLocal": "Institut supérieur « LE TECHNOCRATE »",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Technologies",
+          "Techniques industrielles"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG051",
+      "name": "Institut supérieur Agata Carelli",
+      "nameLocal": "Institut supérieur Agata Carelli (ISAC)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences sociales",
+          "Gestion",
+          "Administration"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG052",
+      "name": "Institut supérieur d'Administration, des Sciences Économiques et de Gestion",
+      "nameLocal": "Institut supérieur d'Administration, des Sciences Économiques et de Gestion (ISAGES)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Administration",
+          "Sciences économiques",
+          "Gestion"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG053",
+      "name": "Institut supérieur de Droit et d'Interprétariat",
+      "nameLocal": "Institut supérieur de Droit et d'Interprétariat (ISDI)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Droit",
+          "Interprétariat",
+          "Traduction"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG054",
+      "name": "Institut supérieur de Management Adonaï",
+      "nameLocal": "Institut supérieur de Management Adonaï (ISM ADONAI)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Management",
+          "Gestion d'entreprise",
+          "Leadership"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG055",
+      "name": "Institut supérieur des langues et des affaires",
+      "nameLocal": "Institut supérieur des langues et des affaires (ISLA)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Langues",
+          "Affaires internationales",
+          "Communication"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG056",
+      "name": "Institut supérieur des sciences économiques et commerciales",
+      "nameLocal": "Institut supérieur des sciences économiques et commerciales (ISSEC-KOUVAHEY)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences économiques",
+          "Commerce",
+          "Gestion"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG057",
+      "name": "Institut supérieur Don Bosco",
+      "nameLocal": "Institut supérieur Don Bosco",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation générale",
+          "Sciences appliquées"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG058",
+      "name": "Institut supérieur privé de management",
+      "nameLocal": "Institut supérieur privé de management (IPM)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Management",
+          "Gestion",
+          "Administration"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG059",
+      "name": "Institut Universitaire LUCAS University College",
+      "nameLocal": "Institut Universitaire « LUCAS University College »",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation universitaire générale"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG060",
+      "name": "Institut Universitaire Global Wealth",
+      "nameLocal": "Institut Universitaire Global Wealth",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Finance",
+          "Gestion de patrimoine",
+          "Économie"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG061",
+      "name": "Institut UPSILON Collège de Paris Supérieur",
+      "nameLocal": "Institut UPSILON Collège de Paris Supérieur",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation supérieure générale"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG062",
+      "name": "Institut des technologies avancées",
+      "nameLocal": "Institut des technologies avancées (JUMAU ITA)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Technologies avancées",
+          "Innovation",
+          "Recherche technologique"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG063",
+      "name": "Institut supérieur de Bâtiment Ayin'a",
+      "nameLocal": "Institut supérieur de Bâtiment Ayin'a (ISBA)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Bâtiment",
+          "Construction",
+          "Architecture"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG064",
+      "name": "Lomé business school",
+      "nameLocal": "Lomé business school (LBS)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Business",
+          "Commerce international",
+          "Management"
+        ],
+        "degrees": [
+          "Licence",
+          "Master",
+          "MBA"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG065",
+      "name": "Social and Inclusive Business Institute of Togo",
+      "nameLocal": "Social and Inclusive Business Institute of Togo (SIBI-Togo)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Business social",
+          "Développement inclusif",
+          "Entrepreneuriat social"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG066",
+      "name": "Institut des Hautes Etudes des Relations Internationales et Stratégiques",
+      "nameLocal": "Institut des Hautes Etudes des Relations Internationales et Stratégiques (IHERIS)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Relations internationales",
+          "Stratégie",
+          "Diplomatie"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG067",
+      "name": "École supérieure des arts de la mode et des arts plastiques",
+      "nameLocal": "École supérieure des arts de la mode et des arts plastiques (ESAMOD)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Arts de la mode",
+          "Arts plastiques",
+          "Design"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG068",
+      "name": "Université Catholique de l'Afrique de l'Ouest-Unité universitaire du Togo",
+      "nameLocal": "Université Catholique de l'Afrique de l'Ouest-Unité universitaire du Togo (UCAO-UUT)",
+      "type": "private",
+      "category": "university",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "faculties": [
+          "Théologie",
+          "Sciences économiques",
+          "Sciences sociales",
+          "Droit"
+        ],
+        "degrees": [
+          "Licence",
+          "Master",
+          "Doctorat"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG069",
+      "name": "American institute of commonwealth-Togo",
+      "nameLocal": "American institute of commonwealth-Togo (AIC-Togo)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation internationale",
+          "Business",
+          "Technologies"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG070",
+      "name": "Heritage international university institute",
+      "nameLocal": "Heritage international university institute (HIUI)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation universitaire internationale"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG071",
+      "name": "Institut Universitaire Nobel",
+      "nameLocal": "Institut Universitaire Nobel (IUN)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences",
+          "Gestion",
+          "Technologies"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG072",
+      "name": "École Supérieure d'Esthétique Appliquée Pharm-A-Peau",
+      "nameLocal": "École Supérieure d'Esthétique Appliquée Pharm-A-Peau (ESEA-Q1S)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Esthétique",
+          "Cosmétologie",
+          "Soins de la peau"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG073",
+      "name": "École supérieure de l'aéronautique et des technologies-Togo",
+      "nameLocal": "École supérieure de l'aéronautique et des technologies-Togo (ESAT-Togo)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Aéronautique",
+          "Technologies aéronautiques",
+          "Aviation"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG074",
+      "name": "École des Micro-Entrepreneurs du Centre",
+      "nameLocal": "École des Micro-Entrepreneurs du Centre (EMC-Sokodé)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Sokodé",
+        "region": "Centrale"
+      },
+      "programs": {
+        "specializations": [
+          "Entrepreneuriat",
+          "Micro-finance",
+          "Gestion de petites entreprises"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG075",
+      "name": "École supérieure de Communication et de Gestion",
+      "nameLocal": "École supérieure de Communication et de Gestion (ESCG-Tsévié)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Tsévié",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Communication",
+          "Gestion",
+          "Marketing"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG076",
+      "name": "École supérieure des affaires",
+      "nameLocal": "École supérieure des affaires (ESA-Kara)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Kara",
+        "region": "Kara"
+      },
+      "programs": {
+        "specializations": [
+          "Affaires",
+          "Commerce",
+          "Gestion d'entreprise"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG077",
+      "name": "École supérieure des Ponts et Chaussées",
+      "nameLocal": "École supérieure des Ponts et Chaussées (ESPC-Kara)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Kara",
+        "region": "Kara"
+      },
+      "programs": {
+        "specializations": [
+          "Ponts et chaussées",
+          "Génie civil",
+          "Travaux publics"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG078",
+      "name": "Institut de Formation aux Métiers de la Sécurité Sociale",
+      "nameLocal": "Institut de Formation aux Métiers de la Sécurité Sociale (IFOMESS-Kara)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Kara",
+        "region": "Kara"
+      },
+      "programs": {
+        "specializations": [
+          "Sécurité sociale",
+          "Protection sociale",
+          "Administration sociale"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG079",
+      "name": "Institut de Formation aux Normes et Technologies de l'Informatique",
+      "nameLocal": "Institut de Formation aux Normes et Technologies de l'Informatique (IFNTI-Sokodé)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Sokodé",
+        "region": "Centrale"
+      },
+      "programs": {
+        "specializations": [
+          "Informatique",
+          "Technologies de l'information",
+          "Normes technologiques"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG080",
+      "name": "Institut des Sciences Technologies et Arts",
+      "nameLocal": "Institut des Sciences Technologies et Arts (ISTA-Kara)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Kara",
+        "region": "Kara"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences",
+          "Technologies",
+          "Arts"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG081",
+      "name": "Institut supérieur de Management Adonaï",
+      "nameLocal": "Institut supérieur de Management Adonaï (ISM-ADONAI-Kara)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Kara",
+        "region": "Kara"
+      },
+      "programs": {
+        "specializations": [
+          "Management",
+          "Gestion",
+          "Leadership"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG082",
+      "name": "Institut supérieur de Management Mgr BAKPESSI",
+      "nameLocal": "Institut supérieur de Management Mgr BAKPESSI (Kara)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Kara",
+        "region": "Kara"
+      },
+      "programs": {
+        "specializations": [
+          "Management",
+          "Administration",
+          "Gestion d'entreprise"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG083",
+      "name": "Knowbridge University Institute",
+      "nameLocal": "Knowbridge University Institute (Sokodé)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Sokodé",
+        "region": "Centrale"
+      },
+      "programs": {
+        "specializations": [
+          "Formation universitaire générale",
+          "Sciences",
+          "Technologies"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG084",
+      "name": "Institut de Recherche et de Formation en Développement local",
+      "nameLocal": "Institut de Recherche et de Formation en Développement local (IRFODEL-CENTRE)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Sokodé",
+        "region": "Centrale"
+      },
+      "programs": {
+        "specializations": [
+          "Développement local",
+          "Recherche",
+          "Formation communautaire"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG085",
+      "name": "L'Institut Sanctuarium Saint John Révélation",
+      "nameLocal": "L'Institut Sanctuarium Saint John Révélation",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences religieuses",
+          "Théologie"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG086",
+      "name": "Institute of Strategy and Leadership",
+      "nameLocal": "Institute of Strategy and Leadership (ISL)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Stratégie",
+          "Leadership",
+          "Management exécutif"
+        ],
+        "degrees": [
+          "Licence",
+          "Master",
+          "Executive"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG087",
+      "name": "École supérieur d'ingénieurs d'Aneho",
+      "nameLocal": "École supérieur d'ingénieurs d'Aneho (ESIA)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Aneho",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Ingénierie",
+          "Sciences appliquées",
+          "Technologies"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG088",
+      "name": "Hôtel Ecole Concordia",
+      "nameLocal": "Hôtel Ecole Concordia",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Hôtellerie",
+          "Restauration",
+          "Tourisme"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG089",
+      "name": "École supérieure le Miel de Kpové-Zion",
+      "nameLocal": "École supérieure le Miel de Kpové-Zion",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Kpové-Zion",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Formation générale"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG090",
+      "name": "Univers du leadership international de XOESE",
+      "nameLocal": "Univers du leadership international de XOESE (Univers XOESE)",
+      "type": "private",
+      "category": "institute",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Leadership international",
+          "Management",
+          "Développement personnel"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG091",
+      "name": "International School of Technology and Business",
+      "nameLocal": "International School of Technology and Business (ISTB)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Technology",
+          "Business",
+          "Innovation"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG092",
+      "name": "Centre de formation supérieure SartenMode",
+      "nameLocal": "Centre de formation supérieure SartenMode (CFS-SartenMode)",
+      "type": "private",
+      "category": "center",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Mode",
+          "Couture",
+          "Design textile"
+        ],
+        "degrees": [
+          "Certificat",
+          "Diplôme"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG093",
+      "name": "École supérieure de relations internationales et de diplomatie",
+      "nameLocal": "École supérieure de relations internationales et de diplomatie (ESRID)",
+      "type": "private",
+      "category": "school",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Relations internationales",
+          "Diplomatie",
+          "Sciences politiques"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    },
+    {
+      "id": "TG094",
+      "name": "Global university school of science and technology",
+      "nameLocal": "Global university school of science and technology (GUST)",
+      "type": "private",
+      "category": "university",
+      "status": "recognized",
+      "location": {
+        "city": "Lomé",
+        "region": "Maritime"
+      },
+      "programs": {
+        "specializations": [
+          "Sciences",
+          "Technology",
+          "Innovation"
+        ],
+        "degrees": [
+          "Licence",
+          "Master"
+        ],
+        "languages": [
+          "French",
+          "English"
+        ]
+      },
+      "accreditation": {
+        "ministryRecognized": true,
+        "validUntil": "2026"
+      }
+    }
+  ]
+}

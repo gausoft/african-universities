@@ -1,0 +1,23 @@
+{
+  "country": {
+    "name": "",
+    "code": "",
+    "continent": "Africa",
+    "region": "",
+    "capital": "",
+    "languages": [],
+    "currency": "",
+    "last_updated": "",
+    "academic_year": "",
+    "source": "",
+    "ministry": ""
+  },
+  "statistics": {
+    "total_institutions": 0,
+    "public_universities": 0,
+    "private_universities": 0,
+    "technical_institutes": 0,
+    "research_centers": 0
+  },
+  "institutions": []
+}

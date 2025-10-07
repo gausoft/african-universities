@@ -1,0 +1,51 @@
+{
+  "name": "african-universities-registry",
+  "version": "1.0.0",
+  "description": "Open-source platform that catalogs recognized higher education institutions across Africa",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon --exec tsx src/index.ts",
+    "start": "node dist/index.js",
+    "validate": "tsx src/scripts/validate.ts",
+    "validate:all": "tsx src/scripts/validate.ts --all",
+    "migrate": "tsx src/scripts/migrate-to-camelcase.ts",
+    "cleanup": "tsx src/scripts/clean-project.ts",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf dist",
+    "prebuild": "npm run clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gausoft/african-universities.git"
+  },
+  "keywords": [
+    "africa",
+    "universities",
+    "higher-education",
+    "registry",
+    "open-source",
+    "education-data"
+  ],
+  "author": "gausoft",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gausoft/african-universities/issues"
+  },
+  "homepage": "https://github.com/gausoft/african-universities#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.0",
+    "nodemon": "^3.1.10",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
